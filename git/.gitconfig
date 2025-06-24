@@ -1,0 +1,11 @@
+[user]
+	name = Steve
+	email = steve@example.com
+[core]
+	autocrlf = false
+	filemode = false
+	editor = vim
+[color]
+	ui = true
+[init]
+	defaultBranch = main
