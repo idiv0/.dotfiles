@@ -15,5 +15,15 @@ cd .dotfiles
 
 # Activate the git configuration.
 stow git
+stow bash
+# etc.
+```
+
+### Bash
+
+To activate the bash scripts extra commands need adding to the existing `.bashrc` file.
+
+```sh
+cat bash_append.sh >> ~/.bashrc
 ```
 
